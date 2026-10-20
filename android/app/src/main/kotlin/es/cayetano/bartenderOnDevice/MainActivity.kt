@@ -1,0 +1,5 @@
+package es.cayetano.bartenderOnDevice
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
